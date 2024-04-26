@@ -1,5 +1,7 @@
 # Snow Removal in Video: A New Dataset and A Novel Method
 
+The code will be released really really soon.
+
 ### [Dataset Download]
 
 [Dataset Download Link](https://haoyuchen.com/VideoDesnowing)
