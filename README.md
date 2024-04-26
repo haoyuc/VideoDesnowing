@@ -6,10 +6,11 @@ Haoyu Chen, Jingjing Ren, Jinjin Gu, Hongtao Wu, Xuequan Lu, Haoming Cai, Lei Zh
 [[supp]](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Chen_Snow_Removal_in_ICCV_2023_supplemental.zip)
 [[homepage]](https://haoyuchen.com/VideoDesnowing)
 
+![](./1.gif)![](./2.gif)
 
 The code will be released really really soon.
 
-### [Dataset Download]
+### [Video Desnowing Dataset]
 
 [Dataset Download Link](https://haoyuchen.com/VideoDesnowing)
 
